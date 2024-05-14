@@ -2,7 +2,21 @@
   "name": "minimal-kiwi",
   "displayName": "Minimal Kiwi",
   "description": "Immerse yourself in the refreshing allure of Kiwi Theme by Pranjal Kumar: A minimalistic, vibrant VSCode theme that harmonizes productivity with the soothing hues of green.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "pranjalkumar",
+    "icon": "https://github.com/pranjal-barnwal/pranjal-barnwal/assets/71400605/60cbe9e9-57e0-45dd-811d-36cf0e5d4435",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pranjal-barnwal/minimal-kiwi"
+    },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "pranjal kumar",
+    "minimal theme",
+    "minimal kiwi",
+    "minimalkiwi"
+  ],
   "engines": {
     "vscode": "^1.89.0"
   },
