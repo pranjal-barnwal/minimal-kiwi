@@ -1,23 +1,22 @@
 # Minimal Kiwi
 
-
-
 <h1 align="center">
   <br>
     <img src="https://github.com/pranjal-barnwal/pranjal-barnwal/assets/71400605/60cbe9e9-57e0-45dd-811d-36cf0e5d4435" alt="logo" width="200">
   <br><br>
-  Material Kiwi | VS-Code Theme
+  Minimal Kiwi | VS-Code Theme
   <br>
   <br>
 </h1>
 
-<h4 align="center">Get the Material Design icons into your VS Code.</h4>
+<h3 align="center">High Contrast | Practical+Beautiful</h3>
+<h4 align="center">Get the Minimal Kiwi theme into your VS Code.</h4>
 
 <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/v/PKief.material-icon-theme?style=for-the-badge&colorA=252526&colorB=43A047&label=VERSION" alt="Version"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/r/PKief.material-icon-theme?style=for-the-badge&colorA=252526&colorB=43A047&label=Rating" alt="Rating"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/i/PKief.material-icon-theme?style=for-the-badge&colorA=252526&colorB=43A047&label=Installs" alt="Installs"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"><img src="https://img.shields.io/visual-studio-marketplace/d/PKief.material-icon-theme?style=for-the-badge&colorA=252526&colorB=43A047&label=Downloads" alt="Downloads"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi"><img src="https://img.shields.io/visual-studio-marketplace/v/PranjalKumar.minimal-kiwi?style=for-the-badge&colorA=252526&colorB=43A047&label=VERSION" alt="Version"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi"><img src="https://img.shields.io/visual-studio-marketplace/r/PranjalKumar.minimal-kiwi?style=for-the-badge&colorA=252526&colorB=43A047&label=Rating" alt="Rating"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi"><img src="https://img.shields.io/visual-studio-marketplace/i/PranjalKumar.minimal-kiwi?style=for-the-badge&colorA=252526&colorB=43A047&label=Installs" alt="Installs"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi"><img src="https://img.shields.io/visual-studio-marketplace/d/PranjalKumar.minimal-kiwi?style=for-the-badge&colorA=252526&colorB=43A047&label=Downloads" alt="Downloads"></a>
 </p>
 
 <h3 align="center">
@@ -27,9 +26,9 @@
     <a href="https://github.com/pranjal-barnwal/minimal-kiwi/issues">Request Feature</a>
 </h3>
 <h3 align="center">
-
-  [![https://github.com/pranjal-barnwal/minimal-kiwi](https://forthebadge.com/images/badges/open-source.svg)](https://github.com/pranjal-barnwal/minimal-kiwi) &nbsp;
-    
+    🔹
+    Open Source
+    🔹
 </h3>
 
 <br>
