@@ -1,0 +1,21 @@
+{
+  "name": "minimal-kiwi",
+  "displayName": "Minimal Kiwi",
+  "description": "Immerse yourself in the refreshing allure of Kiwi Theme by Pranjal Kumar: A minimalistic, vibrant VSCode theme that harmonizes productivity with the soothing hues of green.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minimal Kiwi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal Kiwi-color-theme.json"
+      }
+    ]
+  }
+}
