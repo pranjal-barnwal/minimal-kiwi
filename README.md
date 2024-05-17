@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-    <img src="https://github.com/pranjal-barnwal/pranjal-barnwal/assets/71400605/60cbe9e9-57e0-45dd-811d-36cf0e5d4435" alt="logo" width="200">
+    <img src="./assets/logo.webp" alt="logo | Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha" width="200">
   <br><br>
   <a href="https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi">
   Minimal Kiwi | VS-Code Theme
@@ -30,14 +30,18 @@
 </h3>
 <h3 align="center">
     🔹
-    <a href="https://github.com/pranjal-barnwal/minimal-kiwi">Open Source</a>
+    <a href="https://github.com/pranjal-barnwal/minimal-kiwi/blob/main/CONTRIBUTING.md">Open Source</a>
     🔹
 </h3>
 
 <br>
 
+<img src="./assets/coverpage.webp" alt="Minimal Kiwi Cover by Pranjal Kumar (@pranjal-barnwal)">
 Immerse yourself in the refreshing allure of Kiwi Theme by Pranjal Kumar: A minimalistic, vibrant VSCode theme that harmonizes productivity with the soothing hues of green.
-<img src="https://github.com/pranjal-barnwal/pranjal-barnwal/assets/71400605/bc5849d4-74c9-4bec-bedf-69576141cc37" alt="Minimal Kiwi Cover by Pranjal Kumar (@pranjal-barnwal)">
+<br/><br/>
+
+![welcome-page Minimal Kiwi | Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha](./assets/ui.webp)
+
 <br/><br/>
 
 
@@ -53,8 +57,8 @@ Immerse yourself in the refreshing allure of Kiwi Theme by Pranjal Kumar: A mini
 
 
 # Screenshots
-![welcome-page](https://github.com/pranjal-barnwal/pranjal-barnwal/assets/71400605/a9c01425-7f9b-479f-a2b5-ea92c9ba0267)
-![code-example-py](https://github.com/pranjal-barnwal/pranjal-barnwal/assets/71400605/660b2600-4022-4c39-8a21-6a4b752896b9)
+![welcome-page: Minimal Kiwi | Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha](./assets/welcome-page.webp)
+![code-example-py, Minimal Kiwi | Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha](./assets/code-example-py.webp)
 <br/><br/>
 
 
@@ -134,6 +138,7 @@ Learn more about [creating extensions](./vsc-extension-quickstart.md).
 6. Commit & push the updated changes. Then make a PR to this [repo](https://github.com/pranjal-barnwal/minimal-kiwi).
 <br/><br/>
 
+[![welcome-page](./assets/linkedin-post.webp)](https://www.linkedin.com/feed/update/urn:li:activity:7196242280431652864/)
 
 
 
