@@ -138,8 +138,9 @@ Learn more about [creating extensions](./vsc-extension-quickstart.md).
 6. Commit & push the updated changes. Then make a PR to this [repo](https://github.com/pranjal-barnwal/minimal-kiwi).
 <br/><br/>
 
-[![welcome-page](./assets/linkedin-post.webp)](https://www.linkedin.com/feed/update/urn:li:activity:7196242280431652864/)
-
+<a href='https://www.linkedin.com/feed/update/urn:li:activity:7196242280431652864'>
+<img src='./assets/linkedin-post.webp' alt='LinkedIn Post Minimal Kiwi | Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha' width=600 />
+</a>
 
 
 # Contributors
