@@ -3,6 +3,10 @@
 All notable changes to the "minimal-kiwi" extension will be documented in this file.
 
 
+## v:1.1.0
+- Squashed bugs
+- Updated markdown
+
 ## v:1.0.3
 - Updated contribution guideline
 

@@ -1,10 +1,11 @@
 # How to Contribute
+<img src="https://engineering.naukri.com/wp-content/uploads/sites/19/2015/10/open-source.png" alt="Minimal Kiwi Cover by Pranjal Kumar (@pranjal-barnwal)" width=400>
+
 > Open for contributions.
 Learn more about [creating extensions](./vsc-extension-quickstart.md).
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/pranjal-barnwal/minimal-kiwi)
 [![first-timers-only Friendly](https://img.shields.io/badge/beginner-friendly-blue.svg)](https://github.com/pranjal-barnwal/minimal-kiwi)
-<img src="https://engineering.naukri.com/wp-content/uploads/sites/19/2015/10/open-source.png" alt="Minimal Kiwi Cover by Pranjal Kumar (@pranjal-barnwal)" width=400>
 
 
 1. Fork & Clone the [repo](https://github.com/pranjal-barnwal/minimal-kiwi)

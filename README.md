@@ -157,5 +157,7 @@ Hit the ⭐ if you liked this project!
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
+<a href="https://www.producthunt.com/posts/minimal-kiwi?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-minimal&#0045;kiwi" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=458005&theme=light" alt="Minimal&#0032;Kiwi - Modern&#0032;VS&#0045;Code&#0032;theme&#0032;with&#0032;the&#0032;soothing&#0032;hue&#0032;of&#0032;Green&#0032;Kiwi | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 <iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/458005?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
