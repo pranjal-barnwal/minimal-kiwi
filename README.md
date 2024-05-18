@@ -159,5 +159,3 @@ Hit the ⭐ if you liked this project!
 
 <a href="https://www.producthunt.com/posts/minimal-kiwi?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-minimal&#0045;kiwi" target="_blank"><img src="./assets/product-hunt.webp" alt="Minimal Kiwi | Product Hunt | Pranjal Kumar, Hazaribag Jharkhand" style="width: 250px;" width="250" /></a>
 
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/458005?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
