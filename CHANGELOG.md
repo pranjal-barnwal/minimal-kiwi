@@ -3,6 +3,9 @@
 All notable changes to the "minimal-kiwi" extension will be documented in this file.
 
 
+## v:1.2.0
+- Fixed color contrast levels
+
 ## v:1.1.3
 - Minor updates in color-schema
 
