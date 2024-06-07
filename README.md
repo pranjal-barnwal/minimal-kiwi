@@ -1,8 +1,8 @@
 
 
-<h1 align="center">
+<h1 align="center" style="color: #3fe041;">
   <br>
-    <img src="./assets/logo.webp" alt="logo | Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha" width="200">
+    <img src="./assets/logo.webp" alt="Minimal Kiwi Logo | pranjal-barnwal Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha | Bentley Systems" width="200">
   <br><br>
   <a href="https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi">
   Minimal Kiwi | VS-Code Theme
@@ -13,7 +13,7 @@
 <h3 align="center">High Contrast | Practical+Elegant</h3>
 <h4 align="center">Get the Minimal Kiwi theme into your VS Code.</h4>
 
-<p align="center">
+<p align="center" style="color: #3fe041;">
     <a href="https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi"><img src="https://img.shields.io/visual-studio-marketplace/v/PranjalKumar.minimal-kiwi?style=for-the-badge&colorA=252526&colorB=43A047&label=VERSION" alt="Version"></a>&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi"><img src="https://img.shields.io/visual-studio-marketplace/r/PranjalKumar.minimal-kiwi?style=for-the-badge&colorA=252526&colorB=43A047&label=Rating" alt="Rating"></a>&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi"><img src="https://img.shields.io/visual-studio-marketplace/d/PranjalKumar.minimal-kiwi?style=for-the-badge&colorA=252526&colorB=43A047&label=Downloads" alt="Downloads"></a>
@@ -34,12 +34,13 @@
     🔹
     <br/>
     <br/>
-    <a href="https://www.producthunt.com/posts/minimal-kiwi?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-minimal&#0045;kiwi" target="_blank"><img src="./assets/product-hunt.webp" alt="Minimal Kiwi | Product Hunt | Pranjal Kumar, Hazaribag Jharkhand" style="width: 250px;" width="250" /></a>
+    <a href="https://www.producthunt.com/posts/minimal-kiwi?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-minimal&#0045;kiwi" target="_blank"><img src="./assets/product-hunt.webp" alt="Minimal Kiwi | Product Hunt | pranjal-barnwal Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha | Bentley Systems" style="width: 250px;" width="250" /></a>
 </h3>
 
 <br>
 
-<img src="./assets/coverpage.webp" alt="Minimal Kiwi Cover by Pranjal Kumar (@pranjal-barnwal)">
+<img src="./assets/coverpage.webp" alt="Minimal Kiwi Cover by Pranjal Kumar (@pranjal-barnwal) | pranjal-barnwal Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha | Bentley Systems">
+
 Immerse yourself in the refreshing allure of Kiwi Theme by Pranjal Kumar: A minimalistic, vibrant VSCode theme that harmonizes productivity with the soothing hues of green.
 <br/><br/>
 
@@ -61,6 +62,9 @@ Immerse yourself in the refreshing allure of Kiwi Theme by Pranjal Kumar: A mini
 
 # Screenshots
 ![welcome-page: Minimal Kiwi | Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha](./assets/welcome-page.webp)
+
+<br />
+
 ![code-example-py, Minimal Kiwi | Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha](./assets/code-example-py.webp)
 <br/><br/>
 
@@ -79,7 +83,7 @@ Immerse yourself in the refreshing allure of Kiwi Theme by Pranjal Kumar: A mini
      - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + P`
    - Paste the following command and press `Enter`:
     ```
-    ext install minimal kiwi
+    ext install PranjalKumar.minimal-kiwi
     ```
    - And pick the one published by **Pranjal Kumar** as author
 3. Install from a VSIX file

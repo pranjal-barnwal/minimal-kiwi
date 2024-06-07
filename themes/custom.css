@@ -1,0 +1,5 @@
+.tab.active {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    overflow: hidden; /* Ensure that the border radius works properly */
+}

@@ -3,6 +3,9 @@
 All notable changes to the "minimal-kiwi" extension will be documented in this file.
 
 
+## v:1.1.3
+- Minor updates in color-schema
+
 ## v:1.1.0
 - Squashed bugs
 - Updated markdown
