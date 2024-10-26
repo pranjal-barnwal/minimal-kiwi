@@ -157,7 +157,7 @@ Learn more about [creating extensions](./vsc-extension-quickstart.md).
 <br/><br/>
 
 # Show your support
-Hit the ⭐ if you liked this project!
+Hit the [⭐](https://github.com/pranjal-barnwal/minimal-kiwi#:~:text=Starred) if you liked this project!
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
