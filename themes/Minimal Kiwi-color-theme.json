@@ -1355,9 +1355,9 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#5f5f5f"
+				"foreground": "#828989"
 				}
-				},
+			},
 		{
 			"scope": "punctuation.definition.comment",
 			"settings": {
