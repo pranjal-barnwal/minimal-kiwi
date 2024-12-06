@@ -803,6 +803,7 @@
 		//"window.activeBorder": null,
 		//"window.inactiveBorder": null
 	},
+	"semanticHighlighting": true,
 	"tokenColors": [
 		{
 			"scope": "string",
