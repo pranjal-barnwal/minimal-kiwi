@@ -2,6 +2,8 @@
 
 All notable changes to the "minimal-kiwi" extension will be documented in this file.
 
+## v:2.0.2
+- Fixed bugs
 
 ## v:2.0.1
 - Fixed peek issues
