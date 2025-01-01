@@ -849,7 +849,7 @@
 		{
 			"scope": "keyword, modifier, variable.language.this, support.type.object, constant.language",
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#89DDFF",
 			}
 		},
 		{
@@ -923,8 +923,7 @@
 		},
 		{
 			"scope": "meta.function entity.name.function",
-			"settings": {
-			}
+			"settings": {}
 		},
 		{
 			"scope": "template.expression.begin, template.expression.end, punctuation.definition.template-expression.begin, punctuation.definition.template-expression.end",
@@ -1081,8 +1080,7 @@
 		},
 		{
 			"scope": "source.cs meta.method-call meta.method, source.cs entity.name.function",
-			"settings": {
-			}
+			"settings": {}
 		},
 		{
 			"scope": "source.cs storage.type",
@@ -1134,8 +1132,7 @@
 		},
 		{
 			"scope": "source.python meta.function-call.python, meta.function-call.arguments",
-			"settings": {
-			}
+			"settings": {}
 		},
 		{
 			"scope": "meta.block",
@@ -1145,8 +1142,7 @@
 		},
 		{
 			"scope": "entity.name.function.call",
-			"settings": {
-			}
+			"settings": {}
 		},
 		{
 			"scope": "source.php support.other.namespace, source.php meta.use support.class",
@@ -1163,8 +1159,7 @@
 		},
 		{
 			"scope": "entity.name.function",
-			"settings": {
-			}
+			"settings": {}
 		},
 		{
 			"scope": [
@@ -1203,7 +1198,13 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#89DDFF",
+				"foreground": "#89DDFF"
+			}
+		},
+		{
+			"scope": "string.quoted.docstring.multi.python",
+			"settings": {
+				"foreground": "#828989",
 				"fontStyle": "italic"
 			}
 		},
@@ -1301,8 +1302,7 @@
 			"scope": [
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
-			"settings": {
-			}
+			"settings": {}
 		},
 		{
 			"scope": [
