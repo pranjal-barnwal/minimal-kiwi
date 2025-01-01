@@ -159,8 +159,16 @@ Learn more about [creating extensions](./vsc-extension-quickstart.md).
 <br/><br/>
 
 # Show your support
-Hit the [⭐](https://github.com/pranjal-barnwal/minimal-kiwi#:~:text=Starred) if you liked this project!
+Liked the theme?
+<br>
+Help us maintain the product by donating.
+<br>
+<br>
+<a href='https://buymeacoffee.com/pranjal_barnwal'> 
+<img src='./assets/button.png' alt='Donate through Buy me a coffee to Pranjal Kumar' width='160'/>
+</a>
 
+Hit the [⭐](https://github.com/pranjal-barnwal/minimal-kiwi#:~:text=Starred) if you liked this project!
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
 <a href="https://www.producthunt.com/posts/minimal-kiwi?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-minimal&#0045;kiwi" target="_blank"><img src="./assets/product-hunt.webp" alt="Minimal Kiwi | Product Hunt | Pranjal Kumar @pranjal-barnwal, Hazaribag Jharkhand" style="width: 250px;" width="250" /></a>
