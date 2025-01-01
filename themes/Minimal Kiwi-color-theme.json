@@ -389,7 +389,7 @@
 		//"editorOverviewRuler.wordHighlightStrongForeground": "#c0a0c0cc",
 		//"editorOverviewRuler.wordHighlightTextForeground": "#a0a0a0cc",
 		//"editorPane.background": "#212121",
-		//"editorStickyScroll.background": "#212121",
+		"editorStickyScroll.background": "#171717",
 		//"editorStickyScroll.shadow": "#00000030",
 		//"editorStickyScrollHover.background": "#2a2d2e",
 		//"editorSuggestWidget.focusHighlightForeground": "#93d479",
@@ -541,7 +541,7 @@
 		//"panelSectionHeader.background": "#80808033",
 		//"panelStickyScroll.background": "#1a1a1a",
 		//"panelStickyScroll.shadow": "#00000030",
-		//"peekViewEditorStickyScroll.background": "#ecffff05",
+    "peekViewEditorStickyScroll.background": "#2a2d2e"
 		//"peekViewResult.fileForeground": "#ffffff",
 		//"peekViewResult.lineForeground": "#bbbbbb",
 		//"peekViewResult.selectionForeground": "#ffffff",
@@ -803,6 +803,7 @@
 		//"window.activeBorder": null,
 		//"window.inactiveBorder": null
 	},
+	"semanticHighlighting": true,
 	"tokenColors": [
 		{
 			"scope": "string",
