@@ -42,6 +42,8 @@
 <img src="./assets/coverpage.webp" alt="Minimal Kiwi Cover by Pranjal Kumar (@pranjal-barnwal) | pranjal-barnwal Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha | Bentley Systems">
 
 Immerse yourself in the refreshing allure of Kiwi Theme by Pranjal Kumar: A minimalistic, vibrant VSCode theme that harmonizes productivity with the soothing hues of green.
+
+It is focused on readability and reduced eye strain. This theme features carefully selected colors and enhanced contrast for comfortable long coding sessions.
 <br/><br/>
 
 ![welcome-page Minimal Kiwi | Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha](./assets/ui.webp)
@@ -146,7 +148,7 @@ Learn more about [creating extensions](./vsc-extension-quickstart.md).
 <br/><br/>
 
 <a href='https://www.linkedin.com/feed/update/urn:li:activity:7196242280431652864'>
-<img src='./assets/linkedin-post.webp' alt='LinkedIn Post Minimal Kiwi | Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha' width=600 />
+<img src='./assets/linkedin-post.webp' alt='LinkedIn Post Minimal Kiwi | Pranjal Kumar | Software Engineer @pranjal-barnwal, Hazaribag Jharkhand India, CGU Odisha' width=600 />
 </a>
 
 
@@ -161,5 +163,5 @@ Hit the [⭐](https://github.com/pranjal-barnwal/minimal-kiwi#:~:text=Starred) i
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
 
-<a href="https://www.producthunt.com/posts/minimal-kiwi?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-minimal&#0045;kiwi" target="_blank"><img src="./assets/product-hunt.webp" alt="Minimal Kiwi | Product Hunt | Pranjal Kumar, Hazaribag Jharkhand" style="width: 250px;" width="250" /></a>
+<a href="https://www.producthunt.com/posts/minimal-kiwi?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-minimal&#0045;kiwi" target="_blank"><img src="./assets/product-hunt.webp" alt="Minimal Kiwi | Product Hunt | Pranjal Kumar @pranjal-barnwal, Hazaribag Jharkhand" style="width: 250px;" width="250" /></a>
 

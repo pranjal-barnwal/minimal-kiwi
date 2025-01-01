@@ -3,6 +3,11 @@
 All notable changes to the "minimal-kiwi" extension will be documented in this file.
 
 
+## v:2.0.1
+- Fixed peek issues
+- Support for semantic highlighting
+- Fixed docstring contrast
+
 ## v:1.7.0
 - Adjust contrast levels
 - Fixed context menu readability
