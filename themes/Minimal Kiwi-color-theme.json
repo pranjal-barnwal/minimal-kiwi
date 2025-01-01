@@ -1198,7 +1198,8 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#89DDFF",
+				"fontStyle": "italic"
 			}
 		},
 		{
