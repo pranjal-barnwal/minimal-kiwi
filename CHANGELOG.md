@@ -4,7 +4,7 @@ All notable changes to the "minimal-kiwi" extension will be documented in this f
 
 
 ## v:1.7.0
-- Adjust contrasat levels
+- Adjust contrast levels
 - Fixed context menu readability
 
 ## v:1.2.1
