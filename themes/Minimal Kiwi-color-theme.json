@@ -786,6 +786,7 @@
 		//"window.inactiveBorder": null
 	},
 	"semanticHighlighting": true,
+	"semanticHighlighting": true,
 	"tokenColors": [
 		{
 			"scope": "string",
