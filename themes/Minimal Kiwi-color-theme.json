@@ -389,7 +389,7 @@
 		//"editorOverviewRuler.wordHighlightStrongForeground": "#c0a0c0cc",
 		//"editorOverviewRuler.wordHighlightTextForeground": "#a0a0a0cc",
 		//"editorPane.background": "#212121",
-		//"editorStickyScroll.background": "#212121",
+		"editorStickyScroll.background": "#171717",
 		//"editorStickyScroll.shadow": "#00000030",
 		//"editorStickyScrollHover.background": "#2a2d2e",
 		//"editorSuggestWidget.focusHighlightForeground": "#93d479",
