@@ -1,0 +1,26 @@
+{
+"schemes":[
+    {
+      "name": "Minimal Kiwi",
+      "background": "#1E1E1E",
+      "foreground": "#D4D4D4",
+      "cursorColor": "#00FF99",
+      "black": "#000000",
+      "red": "#FF5F5F",
+      "green": "#00FF99",
+      "yellow": "#FFFF87",
+      "blue": "#5FAFFF",
+      "purple": "#AF87FF",
+      "cyan": "#5FFFFF",
+      "white": "#FFFFFF",
+      "brightBlack": "#808080",
+      "brightRed": "#FF8787",
+      "brightGreen": "#87FFAF",
+      "brightYellow": "#FFFFAF",
+      "brightBlue": "#87D7FF",
+      "brightPurple": "#D7AFFF",
+      "brightCyan": "#87FFFF",
+      "brightWhite": "#E4E4E4"
+    }
+  ]
+}
