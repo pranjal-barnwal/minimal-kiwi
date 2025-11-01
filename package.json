@@ -1,8 +1,8 @@
 {
   "name": "minimal-kiwi",
   "displayName": "Minimal Kiwi",
-  "description": "Minimal Kiwi; a high-contrast, low-fatigue theme built for long coding sessions. Clean syntax hierarchy, vivid kiwi-greens for quick scanning, and pixel-tight contrasts so you can move faster and strain less",
-  "version": "3.0.0",
+  "description": "Minimal Kiwi is a high-contrast, low-fatigue theme built for long coding sessions. Clean syntax hierarchy, vivid kiwi-greens for quick scanning, and pixel-tight contrasts so you can move faster and strain less",
+  "version": "3.0.1",
   "publisher": "PranjalKumar",
   "author": {
     "name": "Pranjal Kumar",

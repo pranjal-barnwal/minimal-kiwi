@@ -1,8 +1,8 @@
 <h1 align="center" style="color: #82cd64;">
   <br>
     <img src="./assets/logo.webp" alt="Minimal Kiwi Logo | pranjal-kumar Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha | Bentley Systems" width="200">
+    <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi">
-  
   Minimal Kiwi | VS-Code Theme
   </a>
   <br>
