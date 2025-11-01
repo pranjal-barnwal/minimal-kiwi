@@ -6,7 +6,7 @@
   "publisher": "pranjalkumar",
   "author": {
     "name": "Pranjal Kumar",
-    "email": "pranjalkumar.dev@gmail.com",
+    "email": "pranjalkumar.dev+minimalkiwi@gmail.com",
     "url": "https://blogs.pranjalkumar.in"
   },
   "homepage": "https://github.com/pranjal-barnwal/minimal-kiwi/blob/main/README.md",
@@ -20,7 +20,8 @@
   },
   "galleryBanner": {
     "color": "#1e1e1e",
-    "theme": "dark"
+    "theme": "dark",
+    "image": "assets/coverpage.webp"
   },
   "keywords": [
     "theme",
