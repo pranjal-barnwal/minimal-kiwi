@@ -18,6 +18,9 @@
   "bugs": {
     "url": "https://github.com/pranjal-barnwal/minimal-kiwi/issues"
   },
+  "sponsor": {
+    "url": "https://github.com/sponsors/pranjal-barnwal"
+  },
   "galleryBanner": {
     "color": "#1e1e1e",
     "theme": "dark",
