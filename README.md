@@ -2,6 +2,7 @@
   <br>
     <img src="./assets/logo.webp" alt="Minimal Kiwi Logo | pranjal-kumar Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha | Bentley Systems" width="200">
     <br>
+    <br>
   <a href="https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi">
   Minimal Kiwi | VS-Code Theme
   </a>
@@ -50,8 +51,8 @@ It is focused on readability and reduced eye strain. This theme features careful
 
 # Table of Content
 
--   [Screenshots](#screenshots)
 -   [Key Features](#key-features)
+-   [Screenshots](#screenshots)
 -   [How to Install](#how-to-install)
 -   [How to Activate](#how-to-activate)
 -   [How to Contribute](#how-to-contribute)
@@ -110,7 +111,10 @@ It is focused on readability and reduced eye strain. This theme features careful
         ```
 
     -   Select to the .vsix file you downloaded just now
-        <br/><br/>
+        <br/>
+        > _This option is useful when you want to install an older version or the latest version which is not yet published to Marketplace or Sideload on Forks of VS-Code with no official extension support_
+
+<br/><br/>
 
 # How to Activate
 
