@@ -1,2 +1,7 @@
-node_modules
+# files to be ignored
+.DS_Store
 *.vsix
+*.vsix
+
+# folders to be ignored
+node_modules

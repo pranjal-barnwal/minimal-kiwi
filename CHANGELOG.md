@@ -2,6 +2,10 @@
 
 All notable changes to the "minimal-kiwi" extension will be documented in this file.
 
+## v:3.0.3
+
+-   Fixed contrast issues in Error
+
 ## v:3.0.1
 
 -   Refined syntax highlighting for better readability

@@ -1,15 +1,17 @@
 {
   "name": "minimal-kiwi",
   "displayName": "Minimal Kiwi",
-  "description": "Minimal Kiwi is a high-contrast, low-fatigue theme built for long coding sessions. Clean syntax hierarchy, vivid kiwi-greens for quick scanning, and pixel-tight contrasts so you can move faster and strain less",
-  "version": "3.0.2",
+  "description": "Minimal Kiwi is a perfect-contrast, low-fatigue theme built for long coding sessions. Clean syntax hierarchy, vivid kiwi-greens for quick scanning, and pixel-tight contrasts so you can move faster and strain less",
+  "version": "3.0.3",
   "publisher": "PranjalKumar",
   "author": {
     "name": "Pranjal Kumar",
     "email": "pranjalkumar.dev+minimalkiwi@gmail.com",
     "url": "https://blogs.pranjalkumar.in"
   },
-  "homepage": "https://github.com/pranjal-barnwal/minimal-kiwi/blob/main/README.md",
+  "homepage": "https://github.com/pranjal-barnwal/minimal-kiwi",
+  "linkedIn": "https://www.linkedin.com/in/pranjal--kumar/",
+  "twitter": "https://x.com/PranjalKumar__",
   "icon": "assets/logo.webp",
   "repository": {
     "type": "git",

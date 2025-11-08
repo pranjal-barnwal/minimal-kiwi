@@ -58,16 +58,18 @@ It is focused on readability and reduced eye strain. This theme features careful
 -   [How to Contribute](#how-to-contribute)
 -   [Contributors](#contributors)
 -   [Show your Support](#show-your-support)
+-   [Sponsors](#sponsors)
+-   [License](#license)
     <br/><br/>
 
 # Key features
 
--   High contrast palette tuned for readability and reduced eye strain
+-   Perfect contrast palette tuned for readability and reduced eye strain
 -   Clear semantic color hierarchy for faster parsing of code structure
 -   Compact UI accents (status bar, activity bar, tabs) for visual clarity
 -   Color choices tested for common color-vision deficiencies
 -   Lightweight; no runtime CPU overhead
-    <br />
+    <br/><br/>
 
 # Screenshots
 
@@ -129,8 +131,7 @@ It is focused on readability and reduced eye strain. This theme features careful
 
 # How to Contribute
 
-> Open for contributions.
-> Learn more about [creating extensions](./vsc-extension-quickstart.md).
+> _Open for contributions. Learn more about [creating extensions](./vsc-extension-quickstart.md)._
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcomed-forestgreen.svg?style=flat)](https://github.com/pranjal-barnwal/minimal-kiwi)
 [![first-timers-only Friendly](https://img.shields.io/badge/Community-loved-pink.svg)](https://github.com/pranjal-barnwal/minimal-kiwi)
@@ -138,7 +139,7 @@ It is focused on readability and reduced eye strain. This theme features careful
 1. Fork & Clone the [repo](https://github.com/pranjal-barnwal/minimal-kiwi)
 
     ```pwsh
-    git clone git@github.com:{YOUR_GITHUB_USERNAME}/minimal-kiwi.git
+    git clone git@github.com:pranjal-barnwal/minimal-kiwi.git
     ```
 
 2. Move to the `minimal-kiwi` directory
@@ -161,20 +162,25 @@ It is focused on readability and reduced eye strain. This theme features careful
     vsce package
     ```
 
-    > This should generate a `minimal-kiwi-{VERSION}.vslx` file. If not then resolve the errors being caused.
+    > _This should generate a `minimal-kiwi-{VERSION}.vslx` file. If not then resolve the errors being caused._
 
 6. Commit & push the updated changes. Then make a PR to this [repo](https://github.com/pranjal-barnwal/minimal-kiwi).
    <br/><br/>
 
-<a href='https://www.linkedin.com/feed/update/urn:li:activity:7196242280431652864'>
-<img src='./assets/linkedin-post.webp' alt='LinkedIn Post Minimal Kiwi | Pranjal Kumar | Software Engineer @pranjal-kumar, Hazaribag Jharkhand India, CGU Odisha' width=600 />
+<a href='https://www.linkedin.com/posts/pranjal--kumar_minimal-kiwi-visual-studio-marketplace-activity-7196242280431652864-n_Bc'>
+<img src='./assets/linkedin-post.webp' alt='Pranjal Kumar created the viral theme Minimal Kiwi VS Code Theme which is being liked by lots of developers. LinkedIn Post Minimal Kiwi | Pranjal Kumar | Software Engineer @pranjal-kumar, Hazaribag Jharkhand India, CGU Odisha' width=600 />
 </a>
+   <br/><br/>
 
 # Contributors
 
 <a href="https://github.com/pranjal-barnwal/minimal-kiwi/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pranjal-barnwal/minimal-kiwi" />
 </a>
+
+Theme is actively contributed to by the community.
+
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcomed-forestgreen.svg?style=flat)](https://github.com/pranjal-barnwal/minimal-kiwi)
 <br/><br/>
 
 # Show your support
@@ -195,3 +201,19 @@ Help us maintain the product by donating.
 
 Hit the [⭐](https://github.com/pranjal-barnwal/minimal-kiwi#:~:text=Starred) if you liked this project! <br/>
 and don't forget to [Rate us on Marketplace](https://marketplace.visualstudio.com/items?itemName=PranjalKumar.minimal-kiwi&ssr=false#review-details)
+<br/><br/>
+
+# Sponsors
+
+Want to be a sponsor? <br/>
+Reach out to [Pranjal Kumar at LinkedIn](https://www.linkedin.com/in/pranjal--kumar/)
+<br/><br/>
+
+# License
+
+[![License: MIT (with commercial terms)](https://img.shields.io/badge/License-MIT%20+%20Commercial-blue.svg)](./LICENSE)
+
+This project is licensed under the [MIT License](./LICENSE) for open and personal use.
+
+Commercial usage requires a separate license.  
+See [COMMERCIAL LICENSE](./COMMERCIAL_LICENSE.md) or contact **mail@pranjalkumar.in** for details.
