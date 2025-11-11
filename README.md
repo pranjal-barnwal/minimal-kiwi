@@ -133,8 +133,8 @@ It is focused on readability and reduced eye strain. This theme features careful
 
 > _Open for contributions. Learn more about [creating extensions](./vsc-extension-quickstart.md)._
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcomed-forestgreen.svg?style=flat)](https://github.com/pranjal-barnwal/minimal-kiwi)
-[![first-timers-only Friendly](https://img.shields.io/badge/Community-loved-pink.svg)](https://github.com/pranjal-barnwal/minimal-kiwi)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-Welcomed-forestgreen.svg?style=flat)](https://github.com/pranjal-barnwal/minimal-kiwi)
+[![Minimal Kiwi, loved by community](https://img.shields.io/badge/Community-Loved-pink.svg)](https://github.com/pranjal-barnwal/minimal-kiwi)
 
 1. Fork & Clone the [repo](https://github.com/pranjal-barnwal/minimal-kiwi)
 
@@ -180,7 +180,7 @@ It is focused on readability and reduced eye strain. This theme features careful
 
 Theme is actively contributed to by the community.
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcomed-forestgreen.svg?style=flat)](https://github.com/pranjal-barnwal/minimal-kiwi)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-Welcomed-forestgreen.svg?style=flat)](https://github.com/pranjal-barnwal/minimal-kiwi)
 <br/><br/>
 
 # Show your support
