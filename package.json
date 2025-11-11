@@ -10,8 +10,6 @@
     "url": "https://blogs.pranjalkumar.in"
   },
   "homepage": "https://github.com/pranjal-barnwal/minimal-kiwi",
-  "linkedIn": "https://www.linkedin.com/in/pranjal--kumar/",
-  "twitter": "https://x.com/PranjalKumar__",
   "icon": "assets/logo.webp",
   "repository": {
     "type": "git",
@@ -35,7 +33,6 @@
     "dark theme",
     "pranjal kumar",
     "minimal theme",
-    "minimal kiwi",
     "productivity"
   ],
   "engines": {

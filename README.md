@@ -206,7 +206,7 @@ and don't forget to [Rate us on Marketplace](https://marketplace.visualstudio.co
 # Sponsors
 
 Want to be a sponsor? <br/>
-Reach out to [Pranjal Kumar at LinkedIn](https://www.linkedin.com/in/pranjal--kumar/)
+Reach out to Pranjal Kumar at [LinkedIn](https://www.linkedin.com/in/pranjal--kumar/), [X (Twitter)](https://x.com/PranjalKumar__)
 <br/><br/>
 
 # License
