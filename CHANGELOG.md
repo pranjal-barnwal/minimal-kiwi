@@ -2,9 +2,14 @@
 
 All notable changes to the "minimal-kiwi" extension will be documented in this file.
 
+## v:3.0.4
+
+-   [BUG](https://github.com/pranjal-barnwal/minimal-kiwi/issues/14): Fixed issue with terminal match colors
+-   Updated Debugging Status bar colors for better visibility
+
 ## v:3.0.3
 
--   Fixed contrast issues in Error
+-   [BUG](https://github.com/pranjal-barnwal/minimal-kiwi/issues/11): Fixed contrast issues in Error
 
 ## v:3.0.1
 
